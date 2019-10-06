@@ -24,8 +24,8 @@ description              : "They are in club room"
 url                      : "koreatech-lighthouse.github.io"
 baseurl                  : ""
 repository               : "KlH/koreatech-lighthouse.github.io"
-teaser                   : /assets/images/teaser.png
-logo                     : /assets/images/logo.png
+teaser                   : assets/images/teaser.png
+logo                     : assets/images/logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "KOREATECH-Lighthouse"
-  avatar           : /assets/images/avatar.jpg
+  avatar           : assets/images/avatar.png
   bio              : "Want To Know Everything"
   location         : "Chungchungnam-do, Korea"
   email            :
