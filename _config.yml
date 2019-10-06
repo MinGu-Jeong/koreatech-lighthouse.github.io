@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Å·±â´ëÀÇ µî´ëµé"
+title                    : "í•œê¸°ëŒ€ì˜ ë“±ëŒ€ë“¤"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KOREATECH-Lighthouse"
@@ -24,8 +24,8 @@ description              : "They are in club room"
 url                      : "koreatech-lighthouse.github.io"
 baseurl                  : ""
 repository               : "KlH/koreatech-lighthouse.github.io"
-teaser                   : assets/images/teaser.png
-logo                     : assets/images/logo.png
+teaser                   : /assets/images/teaser.png
+logo                     : /assets/images/logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
